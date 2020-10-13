@@ -1,3 +1,27 @@
-div {
-    border: 25px solid black;
+/*div {
+  /* border: 25px solid black;
+}*/
+.search {
+    border:20px solid #759EDA;
+    background-color:#759EDA;
+}
+#input-name{
+    background-color: #759EDA;
+    color: white;
+    border:none;
+    outline:0;
+    font-family: "Raleway",sans-serif;
+
+
+}
+#input-name:focus{
+    border-bottom: 1px solid gray;
+}
+button{
+    margin-left: 10px;
+    background-color: #5879c7;
+    border:0px;
+    padding: 10px;
+    outline:0;
+    font-family:"Raleway",sans-serif; 
 }
